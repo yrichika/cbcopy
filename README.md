@@ -4,7 +4,7 @@
 
 ## Description
 
-The command copies the content entered with `|`` to the clipboard. It functions similarly to Mac's `pbcopy` for WSL. Please refrain from installing it on Linux systems that are not WSL, as it won't work on standard Linux.
+The command copies the content entered with `|` to the clipboard. It functions similarly to Mac's `pbcopy` for WSL. Please refrain from installing it on Linux systems that are not WSL, as it won't work on standard Linux.
 
 ```sh
 echo "some text to the clipboard" | cbcopy
