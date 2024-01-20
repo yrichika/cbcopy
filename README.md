@@ -12,6 +12,14 @@ echo "some text to the clipboard" | cbcopy
 cbcopy "some text to the clipboard"
 ```
 
+### Installation
+
+```sh
+brew tap yrichika/cbcopy
+brew install yrichika/cbcopy/cbcopy
+```
+
+
 ## 説明
 
 `|`で入力した内容をクリップボードにコピーするコマンドです。
@@ -25,3 +33,9 @@ echo "some text to the clipboard" | cbcopy
 cbcopy "some text to the clipboard"
 ```
 
+### インストール方法
+
+```sh
+brew tap yrichika/cbcopy
+brew install yrichika/cbcopy/cbcopy
+```
