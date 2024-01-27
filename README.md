@@ -17,6 +17,8 @@ cbcopy "some text to the clipboard"
 ```sh
 brew tap yrichika/cbcopy
 brew install yrichika/cbcopy/cbcopy
+# OR if you already installed Go
+go install github.com/yrichika/cbcopy@latest
 ```
 
 
@@ -38,4 +40,6 @@ cbcopy "some text to the clipboard"
 ```sh
 brew tap yrichika/cbcopy
 brew install yrichika/cbcopy/cbcopy
+# OR Goがインストール済みの場合
+go install github.com/yrichika/cbcopy@latest
 ```
